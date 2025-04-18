@@ -154,7 +154,7 @@ const Home = () => {
                   <div className="md:flex justify-center w-full gap-5">
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/html.png"
+                        src="/public/html.png"
                         alt="HTML"
                         className="h-16 w-16  mt-10"
                       />
@@ -164,7 +164,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/css.png"
+                        src="/public/css.png"
                         alt="CSS"
                         className="h-16 w-16 mt-10"
                       />
@@ -174,7 +174,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/react.png"
+                        src="/public/react.png"
                         alt="React"
                         className="h-16 w-16 mt-10"
                       />
@@ -184,7 +184,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/bootstrap.png"
+                        src="/public/bootstrap.png"
                         alt="Bootstrap"
                         className="h-16 w-16 mt-10"
                       />
@@ -194,7 +194,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/tailwind.png"
+                        src="/public/tailwind.png"
                         alt="Tailwind CSS"
                         className="h-16 w-16 mt-10"
                       />
@@ -204,7 +204,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/javascript.png"
+                        src="/public/javascript.png"
                         alt="JavaScript"
                         className="h-16 w-16 mt-10"
                       />
@@ -214,7 +214,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/jquery-4.svg"
+                        src="/public/jquery-4.svg"
                         alt="jQuery"
                         className="h-16 w-16 mt-10"
                       />
@@ -224,7 +224,7 @@ const Home = () => {
                     </div>
                     <div className="flex flex-col items-center">
                       <img
-                        src="/src/assets/redux.svg"
+                        src="/public/redux.svg"
                         alt="Redux"
                         className="h-16 w-16 mt-10"
                       />
