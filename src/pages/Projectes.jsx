@@ -47,14 +47,14 @@ const Projectes = () => {
           {projectsData.map((project) => {
             return (
               <div>
-                <div className="relative md:p-10 md:border-2 border-2  text-center rounded-lg   md:rounded-tr-3xl md:rounded-bl-3xl border-gray-400">
-                  <img
+                <div  className="relative md:p-10 md:border-2 border-2  text-center rounded-lg   md:rounded-tr-3xl md:rounded-bl-3xl border-gray-400">
+                  <img  
                     src={project.image}
                     className="md:w-full object-contain md:h-90 text-center w-full "
                     alt=""
                   />
 
-                  <div className="absolute inset-0 flex items-center justify-center flex-col opacity-0 bg-black md:hover:opacity-80 rounded-tr-3xl rounded-bl-3xl">
+                  <div  className="absolute inset-0 flex items-center justify-center flex-col opacity-0 bg-black md:hover:opacity-80 rounded-tr-3xl rounded-bl-3xl">
                     <h1 className="text-4xl font-semibold text-white">
                       {project.title}
                     </h1>
